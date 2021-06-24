@@ -1,0 +1,4 @@
+#ignore all hidden files except .gitignore
+.*
+!/.gitignore
+fgpu_sys/
