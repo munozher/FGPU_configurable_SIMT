@@ -72,7 +72,6 @@ ARCHITECTURE uitofp_arch OF uitofp IS
   COMPONENT floating_point_v7_1_11 IS
     GENERIC (
       C_XDEVICEFAMILY : STRING;
-      C_PART : STRING;
       C_HAS_ADD : INTEGER;
       C_HAS_SUBTRACT : INTEGER;
       C_HAS_MULTIPLY : INTEGER;
@@ -193,8 +192,7 @@ ARCHITECTURE uitofp_arch OF uitofp IS
 BEGIN
   U0 : floating_point_v7_1_11
     GENERIC MAP (
-      C_XDEVICEFAMILY => "zynquplus",
-      C_PART => "xczu3eg-sbva484-1-e",
+      C_XDEVICEFAMILY => "zynq",
       C_HAS_ADD => 0,
       C_HAS_SUBTRACT => 0,
       C_HAS_MULTIPLY => 0,
@@ -228,7 +226,7 @@ BEGIN
       C_RESULT_WIDTH => 32,
       C_RESULT_FRACTION_WIDTH => 24,
       C_COMPARE_OPERATION => 8,
-      C_LATENCY => 6,
+      C_LATENCY => 5,
       C_OPTIMIZATION => 1,
       C_MULT_USAGE => 0,
       C_BRAM_USAGE => 0,
@@ -269,7 +267,7 @@ BEGIN
       C_OPERATION_TUSER_WIDTH => 1,
       C_RESULT_TDATA_WIDTH => 32,
       C_RESULT_TUSER_WIDTH => 1,
-      C_FIXED_DATA_UNSIGNED => 0
+      C_FIXED_DATA_UNSIGNED => 1
     )
     PORT MAP (
       aclk => aclk,

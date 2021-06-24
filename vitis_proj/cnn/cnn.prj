@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="cnn" location="/home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/cnn" platform="/home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/export/zedboard_custom/zedboard_custom.xpfm" platformUID="xilinx:zed::0.0(custom)" systemProject="cnn_system" sysConfig="zedboard_custom" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" language="CPP" mssSignature="088fe0c0ee7c13b21a7ccd74aa345d4d">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.351664608">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1610941980" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

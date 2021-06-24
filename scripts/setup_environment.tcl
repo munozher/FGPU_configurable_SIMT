@@ -33,7 +33,7 @@ if ([info exists set_up_fgpu_environment]) {
 # path where these scripts and the repository are located.
 set path_tclscripts [file normalize "[info script]/../"]
 set path_repository [file normalize "${path_tclscripts}/../../"]
-cd "${path_repository}/project_vivado"
+cd "${path_repository}/"
 
 ##############################################################################
 ############################ END DON'T TOUCH #################################
@@ -48,28 +48,30 @@ cd "${path_repository}/project_vivado"
 set OS "linux"
 #set OS "windows"
 
-################################################################################
-######                  Do not edit the fgpu_ip name                       #####
-######You may only change the name of the project inside the else statement#####
-################################################################################
-if {${action} == "generate_IP"} {
-    set name_project "fgpu_ip_temp"
-} else {
-    set name_project "fgpu_sys"
-}
-
-
-set path_project "${path_repository}/project_vivado/${name_project}"
-
 
 # The number of threads with which to run simulation, synthesis and impl.
 set num_threads 4
 
 # Set the target board
-set target_board "Ultra96"
+set target_board "ZedBoard"
 
-# The target frequency for implementation
+# The target frequency for implementation (in MHz)
 set FREQ        100
+
+##############################################################################
+############### End of configurable parameters by the user ###################
+##############################################################################
+
+
+################################################################################
+######                  Do not edit the fgpu_ip name                       #####
+######You may only change the name of the project inside the else statement#####
+################################################################################
+set name_project "fgpu_sys"
+
+set path_fgpu_ip "${path_repository}/FGPU_configurable_SIMT/fgpu_ip"
+set path_project "${path_repository}/FGPU_configurable_SIMT/${name_project}"
+
 
 ##############################################################################
 ### These variables below will likely be impacted by the version of Vivado ###
@@ -78,6 +80,7 @@ set FREQ        100
 # IP Versions
 set ip_clk_wiz_v "6.0"
 
+set ip_ps_ver "5.5"
 
 ##############################################################################
 ###########                  FGPU IP Parameters               ################

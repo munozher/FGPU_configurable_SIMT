@@ -554,7 +554,7 @@
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>viewChecksum</spirit:name>
-            <spirit:value>9fbf5079</spirit:value>
+            <spirit:value>7b33528c</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -573,7 +573,7 @@
         <spirit:parameters>
           <spirit:parameter>
             <spirit:name>viewChecksum</spirit:name>
-            <spirit:value>8fadbda6</spirit:value>
+            <spirit:value>844ac97e</spirit:value>
           </spirit:parameter>
         </spirit:parameters>
       </spirit:view>
@@ -1947,7 +1947,7 @@
   <spirit:vendorExtensions>
     <xilinx:coreExtensions>
       <xilinx:supportedFamilies>
-        <xilinx:family xilinx:lifeCycle="Production">zynquplus</xilinx:family>
+        <xilinx:family xilinx:lifeCycle="Production">zynq</xilinx:family>
       </xilinx:supportedFamilies>
       <xilinx:taxonomies>
         <xilinx:taxonomy>/UserIP</xilinx:taxonomy>
@@ -1955,16 +1955,16 @@
       <xilinx:displayName>FGPU_v2_1</xilinx:displayName>
       <xilinx:definitionSource>package_project</xilinx:definitionSource>
       <xilinx:coreRevision>1</xilinx:coreRevision>
-      <xilinx:coreCreationDateTime>2021-06-14T15:15:48Z</xilinx:coreCreationDateTime>
+      <xilinx:coreCreationDateTime>2021-06-24T13:32:34Z</xilinx:coreCreationDateTime>
       <xilinx:tags>
-        <xilinx:tag xilinx:name="ui.data.coregen.dd@78384348_ARCHIVE_LOCATION">/home/hector/Documents/demo/FGPU/vivado/ultra96/project_vivado/fgpu_ip</xilinx:tag>
-        <xilinx:tag xilinx:name="ui.data.coregen.dd@32bb9538_ARCHIVE_LOCATION">/home/hector/Documents/demo/FGPU/vivado/ultra96/project_vivado/fgpu_ip</xilinx:tag>
-        <xilinx:tag xilinx:name="ui.data.coregen.dd@5050d94a_ARCHIVE_LOCATION">/home/hector/Documents/demo/FGPU/vivado/ultra96/project_vivado/fgpu_ip</xilinx:tag>
-        <xilinx:tag xilinx:name="ui.data.coregen.dd@7473f69_ARCHIVE_LOCATION">/home/hector/Documents/demo/FGPU/vivado/ultra96/project_vivado/fgpu_ip</xilinx:tag>
-        <xilinx:tag xilinx:name="ui.data.coregen.dd@1f973c04_ARCHIVE_LOCATION">/home/hector/Documents/demo/FGPU/vivado/ultra96/project_vivado/fgpu_ip</xilinx:tag>
-        <xilinx:tag xilinx:name="ui.data.coregen.dd@342f728a_ARCHIVE_LOCATION">/home/hector/Documents/demo/FGPU/vivado/ultra96/project_vivado/fgpu_ip</xilinx:tag>
-        <xilinx:tag xilinx:name="ui.data.coregen.dd@1160a473_ARCHIVE_LOCATION">/home/hector/Documents/demo/FGPU/vivado/ultra96/project_vivado/fgpu_ip</xilinx:tag>
-        <xilinx:tag xilinx:name="ui.data.coregen.dd@485d2e5f_ARCHIVE_LOCATION">/home/hector/Documents/demo/FGPU/vivado/ultra96/project_vivado/fgpu_ip</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@72773716_ARCHIVE_LOCATION">/home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/project_vivado/fgpu_ip</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@1d5fca7a_ARCHIVE_LOCATION">/home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/project_vivado/fgpu_ip</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@33fc9522_ARCHIVE_LOCATION">/home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/project_vivado/fgpu_ip</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@6a22048d_ARCHIVE_LOCATION">/home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/project_vivado/fgpu_ip</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@16786292_ARCHIVE_LOCATION">/home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/project_vivado/fgpu_ip</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@181a3a51_ARCHIVE_LOCATION">/home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/project_vivado/fgpu_ip</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@50e60bae_ARCHIVE_LOCATION">/home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/project_vivado/fgpu_ip</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@17e53124_ARCHIVE_LOCATION">/home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/project_vivado/fgpu_ip</xilinx:tag>
       </xilinx:tags>
     </xilinx:coreExtensions>
     <xilinx:packagingInfo>
@@ -1972,7 +1972,7 @@
       <xilinx:checksum xilinx:scope="busInterfaces" xilinx:value="be7d3827"/>
       <xilinx:checksum xilinx:scope="addressSpaces" xilinx:value="5dd1fad9"/>
       <xilinx:checksum xilinx:scope="memoryMaps" xilinx:value="e9977742"/>
-      <xilinx:checksum xilinx:scope="fileGroups" xilinx:value="0c7b958f"/>
+      <xilinx:checksum xilinx:scope="fileGroups" xilinx:value="0f9a0493"/>
       <xilinx:checksum xilinx:scope="ports" xilinx:value="765e28f6"/>
       <xilinx:checksum xilinx:scope="parameters" xilinx:value="70b3b9f6"/>
     </xilinx:packagingInfo>

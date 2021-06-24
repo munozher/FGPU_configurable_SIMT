@@ -74,7 +74,6 @@ ARCHITECTURE fmul_arch OF fmul IS
   COMPONENT floating_point_v7_1_11 IS
     GENERIC (
       C_XDEVICEFAMILY : STRING;
-      C_PART : STRING;
       C_HAS_ADD : INTEGER;
       C_HAS_SUBTRACT : INTEGER;
       C_HAS_MULTIPLY : INTEGER;
@@ -198,8 +197,7 @@ ARCHITECTURE fmul_arch OF fmul IS
 BEGIN
   U0 : floating_point_v7_1_11
     GENERIC MAP (
-      C_XDEVICEFAMILY => "zynquplus",
-      C_PART => "xczu3eg-sbva484-1-e",
+      C_XDEVICEFAMILY => "zynq",
       C_HAS_ADD => 0,
       C_HAS_SUBTRACT => 0,
       C_HAS_MULTIPLY => 1,

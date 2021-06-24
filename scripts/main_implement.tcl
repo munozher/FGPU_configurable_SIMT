@@ -7,4 +7,4 @@ set path_thiscript [file normalize "[info script]/../"]
 source "${path_thiscript}/setup_environment.tcl"
 source "${path_tclscripts}/setup_project.tcl"
 source "${path_tclscripts}/create_bd.tcl"
-#source "${path_tclscripts}/implement_fgpu.tcl"
+source "${path_tclscripts}/implement_fgpu.tcl"
