@@ -2,4 +2,4 @@
 .*
 !/.gitignore
 fgpu_sys/
-!fgpu_sys/FGPU_bd_wrapper.xsa
+

@@ -149,3 +149,4 @@ con
 ----------------End of Script----------------
 
 17:05:53 INFO  : Launch script is exported to file '/home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/cnn_system/_ide/scripts/debugger_cnn-default.tcl'
+17:09:02 INFO  : Disconnected from the channel tcfchan#6.
