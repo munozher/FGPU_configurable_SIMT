@@ -32,4 +32,4 @@ Optionally, you can start from scratch by:
 Optionally, the user can use their own handwritten digit image, provided that its 28x28 pixels and its flatten into a one-dimesional 'c' array (usage of image.h as template is encouraged)
 8. The result can be visualized in a serial terminal.
 
-A video demonstration can be seen [here:][https://youtube.com]
+A video demonstration can be seen [here:](https://youtube.com)
