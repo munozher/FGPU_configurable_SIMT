@@ -2357,3 +2357,356 @@ TRACE::2021-06-24.17:03:31::SCWMssOS::DEBUG:  swdes dump  /home/hector/Documents
 /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
 
 TRACE::2021-06-24.17:03:31::SCWMssOS::Sw design exists and opened at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2021-06-28.17:05:11::SCWPlatform::Trying to open the hw design at /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:11::SCWPlatform::DSA given /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:11::SCWPlatform::DSA absoulate path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:15::SCWPlatform::DSA directory /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw
+TRACE::2021-06-28.17:05:15::SCWPlatform:: Platform Path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:15::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2021-06-28.17:05:15::SCWPlatform::Do not have an existing db opened. 
+TRACE::2021-06-28.17:05:17::SCWPlatform::Opened new HwDB with name FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWReader::Active system found as  zedboard_custom
+TRACE::2021-06-28.17:05:17::SCWReader::Handling sysconfig zedboard_custom
+TRACE::2021-06-28.17:05:17::SCWDomain::checking for install qemu data   : 
+TRACE::2021-06-28.17:05:17::SCWDomain:: Using the QEMU Data from install at  : /opt/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2021-06-28.17:05:17::SCWDomain:: Using the QEMU args  from install at  : /opt/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to open the hw design at /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA given /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA absoulate path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA directory /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Platform Path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to set the existing hwdb with name FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Opened existing hwdb FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to open the hw design at /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA given /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA absoulate path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA directory /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Platform Path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to set the existing hwdb with name FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Opened existing hwdb FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to open the hw design at /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA given /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA absoulate path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA directory /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Platform Path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to set the existing hwdb with name FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Opened existing hwdb FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-06-28.17:05:17::SCWReader::Boot application domain added for zynq_fsbl
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to open the hw design at /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA given /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA absoulate path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA directory /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Platform Path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to set the existing hwdb with name FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Opened existing hwdb FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-06-28.17:05:17::SCWMssOS::Checking the sw design at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2021-06-28.17:05:17::SCWMssOS::No sw design opened at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWMssOS::mss exists loading the mss file  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWMssOS::Opened the sw design from mss  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWMssOS::Adding the swdes entry /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss with des name system
+TRACE::2021-06-28.17:05:17::SCWMssOS::updating the scw layer about changes
+TRACE::2021-06-28.17:05:17::SCWMssOS::Opened the sw design.  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to open the hw design at /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA given /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA absoulate path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA directory /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Platform Path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to set the existing hwdb with name FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Opened existing hwdb FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-06-28.17:05:17::SCWMssOS::Checking the sw design at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWMssOS::DEBUG:  swdes dump  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2021-06-28.17:05:17::SCWMssOS::Sw design exists and opened at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWMssOS:: library already available in sw design:  xilffs:4.4
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to open the hw design at /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA given /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA absoulate path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA directory /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Platform Path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to set the existing hwdb with name FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Opened existing hwdb FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-06-28.17:05:17::SCWMssOS::Checking the sw design at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWMssOS::DEBUG:  swdes dump  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2021-06-28.17:05:17::SCWMssOS::Sw design exists and opened at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWMssOS:: library already available in sw design:  xilrsa:1.6
+TRACE::2021-06-28.17:05:17::SCWMssOS::Saving the mss changes /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-06-28.17:05:17::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-06-28.17:05:17::SCWMssOS::Commit changes completed.
+TRACE::2021-06-28.17:05:17::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2021-06-28.17:05:17::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to open the hw design at /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA given /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA absoulate path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA directory /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Platform Path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to set the existing hwdb with name FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Opened existing hwdb FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-06-28.17:05:17::SCWMssOS::Checking the sw design at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWMssOS::DEBUG:  swdes dump  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2021-06-28.17:05:17::SCWMssOS::Sw design exists and opened at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWReader::No isolation master present  
+TRACE::2021-06-28.17:05:17::SCWDomain::checking for install qemu data   : 
+TRACE::2021-06-28.17:05:17::SCWDomain:: Using the QEMU Data from install at  : /opt/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/
+TRACE::2021-06-28.17:05:17::SCWDomain:: Using the QEMU args  from install at  : /opt/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to open the hw design at /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA given /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA absoulate path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA directory /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Platform Path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to set the existing hwdb with name FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Opened existing hwdb FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to open the hw design at /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA given /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA absoulate path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA directory /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Platform Path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to set the existing hwdb with name FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Opened existing hwdb FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to open the hw design at /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA given /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA absoulate path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA directory /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Platform Path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to set the existing hwdb with name FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Opened existing hwdb FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-06-28.17:05:17::SCWMssOS::Checking the sw design at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWMssOS::DEBUG:  swdes dump  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2021-06-28.17:05:17::SCWMssOS::No sw design opened at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWMssOS::mss exists loading the mss file  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWMssOS::Opened the sw design from mss  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWMssOS::Adding the swdes entry /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss with des name system_0
+TRACE::2021-06-28.17:05:17::SCWMssOS::updating the scw layer about changes
+TRACE::2021-06-28.17:05:17::SCWMssOS::Opened the sw design.  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWMssOS::Saving the mss changes /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-06-28.17:05:17::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-06-28.17:05:17::SCWMssOS::Commit changes completed.
+TRACE::2021-06-28.17:05:17::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2021-06-28.17:05:17::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to open the hw design at /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA given /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA absoulate path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform::DSA directory /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Platform Path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:05:17::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2021-06-28.17:05:17::SCWPlatform::Trying to set the existing hwdb with name FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Opened existing hwdb FGPU_bd_wrapper
+TRACE::2021-06-28.17:05:17::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-06-28.17:05:17::SCWMssOS::Checking the sw design at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWMssOS::DEBUG:  swdes dump  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2021-06-28.17:05:17::SCWMssOS::Sw design exists and opened at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2021-06-28.17:05:17::SCWReader::No isolation master present  
+LOG::2021-06-28.17:15:36::SCWPlatform::Started generating the artifacts platform zedboard_custom
+TRACE::2021-06-28.17:15:36::SCWPlatform::Sanity checking of platform is completed
+LOG::2021-06-28.17:15:36::SCWPlatform::Started generating the artifacts for system configuration zedboard_custom
+LOG::2021-06-28.17:15:36::SCWSystem::Checking the domain zynq_fsbl
+LOG::2021-06-28.17:15:36::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2021-06-28.17:15:36::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2021-06-28.17:15:36::SCWDomain::Skipping the build for domain :  zynq_fsbl
+LOG::2021-06-28.17:15:36::SCWSystem::Checking the domain standalone_domain
+LOG::2021-06-28.17:15:36::SCWSystem::Not a boot domain 
+LOG::2021-06-28.17:15:36::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2021-06-28.17:15:36::SCWDomain::Generating domain artifcats
+TRACE::2021-06-28.17:15:36::SCWMssOS::Generating standalone artifcats
+TRACE::2021-06-28.17:15:36::SCWMssOS::Copying the qemu file from  /opt/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt To /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/export/zedboard_custom/sw/zedboard_custom/qemu/
+TRACE::2021-06-28.17:15:36::SCWMssOS::Copying the qemu file from  /opt/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt To /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/export/zedboard_custom/sw/zedboard_custom/standalone_domain/qemu/
+TRACE::2021-06-28.17:15:36::SCWMssOS:: Copying the user libraries. 
+TRACE::2021-06-28.17:15:36::SCWPlatform::Trying to open the hw design at /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:15:36::SCWPlatform::DSA given /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:15:36::SCWPlatform::DSA absoulate path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:15:36::SCWPlatform::DSA directory /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw
+TRACE::2021-06-28.17:15:36::SCWPlatform:: Platform Path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:15:36::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2021-06-28.17:15:36::SCWPlatform::Trying to set the existing hwdb with name FGPU_bd_wrapper
+TRACE::2021-06-28.17:15:36::SCWPlatform::Opened existing hwdb FGPU_bd_wrapper
+TRACE::2021-06-28.17:15:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-06-28.17:15:36::SCWMssOS::Checking the sw design at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2021-06-28.17:15:36::SCWMssOS::DEBUG:  swdes dump  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2021-06-28.17:15:36::SCWMssOS::Sw design exists and opened at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2021-06-28.17:15:36::SCWMssOS::Completed writing the mss file at /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2021-06-28.17:15:36::SCWMssOS::Mss edits present, copying mssfile into export location /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2021-06-28.17:15:36::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2021-06-28.17:15:36::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2021-06-28.17:15:36::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2021-06-28.17:15:36::SCWMssOS::skipping the bsp build ... 
+TRACE::2021-06-28.17:15:36::SCWMssOS::Copying to export directory.
+TRACE::2021-06-28.17:15:36::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2021-06-28.17:15:36::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2021-06-28.17:15:36::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2021-06-28.17:15:36::SCWSystem::Completed Processing the sysconfig zedboard_custom
+LOG::2021-06-28.17:15:36::SCWPlatform::Completed generating the artifacts for system configuration zedboard_custom
+TRACE::2021-06-28.17:15:36::SCWPlatform::Started preparing the platform 
+TRACE::2021-06-28.17:15:36::SCWSystem::Writing the bif file for system config zedboard_custom
+TRACE::2021-06-28.17:15:36::SCWSystem::dir created 
+TRACE::2021-06-28.17:15:36::SCWSystem::Writing the bif 
+TRACE::2021-06-28.17:15:36::SCWPlatform::Started writing the spfm file 
+TRACE::2021-06-28.17:15:36::SCWPlatform::Started writing the xpfm file 
+TRACE::2021-06-28.17:15:36::SCWPlatform::Completed generating the platform
+TRACE::2021-06-28.17:15:36::SCWMssOS::Saving the mss changes /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2021-06-28.17:15:36::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-06-28.17:15:36::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-06-28.17:15:36::SCWMssOS::Commit changes completed.
+TRACE::2021-06-28.17:15:36::SCWMssOS::Saving the mss changes /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2021-06-28.17:15:36::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2021-06-28.17:15:36::SCWMssOS::Completed writemss as part of save.
+TRACE::2021-06-28.17:15:36::SCWMssOS::Commit changes completed.
+TRACE::2021-06-28.17:15:36::SCWPlatform::Trying to open the hw design at /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:15:36::SCWPlatform::DSA given /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:15:36::SCWPlatform::DSA absoulate path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:15:36::SCWPlatform::DSA directory /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw
+TRACE::2021-06-28.17:15:36::SCWPlatform:: Platform Path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:15:36::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2021-06-28.17:15:36::SCWPlatform::Trying to set the existing hwdb with name FGPU_bd_wrapper
+TRACE::2021-06-28.17:15:36::SCWPlatform::Opened existing hwdb FGPU_bd_wrapper
+TRACE::2021-06-28.17:15:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-06-28.17:15:36::SCWMssOS::Checking the sw design at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2021-06-28.17:15:36::SCWMssOS::DEBUG:  swdes dump  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2021-06-28.17:15:36::SCWMssOS::Sw design exists and opened at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2021-06-28.17:15:36::SCWPlatform::Trying to open the hw design at /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:15:36::SCWPlatform::DSA given /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:15:36::SCWPlatform::DSA absoulate path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:15:36::SCWPlatform::DSA directory /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw
+TRACE::2021-06-28.17:15:36::SCWPlatform:: Platform Path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:15:36::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2021-06-28.17:15:36::SCWPlatform::Trying to set the existing hwdb with name FGPU_bd_wrapper
+TRACE::2021-06-28.17:15:36::SCWPlatform::Opened existing hwdb FGPU_bd_wrapper
+TRACE::2021-06-28.17:15:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-06-28.17:15:36::SCWMssOS::Checking the sw design at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2021-06-28.17:15:36::SCWMssOS::DEBUG:  swdes dump  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2021-06-28.17:15:36::SCWMssOS::Sw design exists and opened at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2021-06-28.17:15:36::SCWWriter::formatted JSON is {
+	"platformName":	"zedboard_custom",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"zedboard_custom",
+	"platHandOff":	"/home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/fgpu_sys/FGPU_bd_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/FGPU_bd_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"fsblExtraCompilerFlags":	"-MMD -MP       -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard ",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"zedboard_custom",
+	"systems":	[{
+			"systemName":	"zedboard_custom",
+			"systemDesc":	"zedboard_custom",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"zedboard_custom",
+			"sysActiveDom":	"standalone_domain",
+			"sysDefaultDom":	"standalone_domain",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"d55604ec830512529a4f2183f45d128d",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.4", "xilrsa:1.6"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/opt/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/qemu_args.txt",
+					"qemuData":	"/opt/Xilinx/Vitis/2020.2/data/emulation/platforms/zynq/sw/a9_standalone/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.3",
+					"mssFile":	"",
+					"md5Digest":	"93662ad000f8bbc850042b7794410f54",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2021-06-28.17:15:36::SCWPlatform::updated the xpfm file.
+TRACE::2021-06-28.17:15:36::SCWPlatform::Trying to open the hw design at /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:15:36::SCWPlatform::DSA given /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:15:36::SCWPlatform::DSA absoulate path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:15:36::SCWPlatform::DSA directory /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw
+TRACE::2021-06-28.17:15:36::SCWPlatform:: Platform Path /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/hw/FGPU_bd_wrapper.xsa
+TRACE::2021-06-28.17:15:36::SCWPlatform:: Unique name xilinx:zed::0.0
+TRACE::2021-06-28.17:15:36::SCWPlatform::Trying to set the existing hwdb with name FGPU_bd_wrapper
+TRACE::2021-06-28.17:15:36::SCWPlatform::Opened existing hwdb FGPU_bd_wrapper
+TRACE::2021-06-28.17:15:36::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2021-06-28.17:15:36::SCWMssOS::Checking the sw design at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2021-06-28.17:15:36::SCWMssOS::DEBUG:  swdes dump  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2021-06-28.17:15:36::SCWMssOS::Sw design exists and opened at  /home/hector/Documents/demo/FGPU/vivado/xilinx_contest/FGPU_configurable_SIMT/vitis_proj/zedboard_custom/ps7_cortexa9_0/standalone_domain/bsp/system.mss

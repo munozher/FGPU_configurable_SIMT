@@ -16,3 +16,5 @@ platform write
 platform generate -domains 
 platform active {zedboard_custom}
 platform generate
+platform active {zedboard_custom}
+platform generate -domains 
