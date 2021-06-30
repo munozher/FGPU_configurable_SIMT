@@ -14,7 +14,7 @@ Participant(s): Hector Gerardo Muñoz Hernandez, Liliia Kudelina, Mitko Veleski
 Email: munozher@b-tu.de
 
 
-Supervisor name: Marcelo Brandalero
+Supervisor name: Michael Hübner, Marcelo Brandalero
 
 Supervisor e-mail:  marcelo.brandalero@b-tu.de
 
