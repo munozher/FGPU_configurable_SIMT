@@ -5,7 +5,7 @@ Team number: xohw21-184
 Project name: FGPU: A Configurable Soft-Core SIMT Accelerator (Xilinx open Hardware 2021 design contest)
 
 
-A video demonstration can be seen [here:](https://www.dropbox.com/s/5xeulkje6d7a7vn/xohw21-184.mp4?dl=0)
+A video demonstration can be seen [here:](https://youtu.be/KNSgCsB4kco)
 
 University name: Brandenburg University of Technology Cottbus-Senftenberg
 
