@@ -1,8 +1,33 @@
 # FGPU_configurable_SIMT
-FGPU: A Configurable Soft-Core SIMT Accelerator (Xilinx open Hardware 2021 design contest)
 
-Tested for Vivado 2020.2, and using a ZedBoard.
-Other Vivado versions might not work.
+Team number: xohw21-184
+
+Project name: FGPU: A Configurable Soft-Core SIMT Accelerator (Xilinx open Hardware 2021 design contest)
+
+
+A video demonstration can be seen [here:](https://www.dropbox.com/s/5xeulkje6d7a7vn/xilinx_contest.mp4?dl=0)
+
+University name: Brandenburg University of Technology Cottbus-Senftenberg
+
+Participant(s): Hector Gerardo Muñoz Hernandez, Liliia Kudelina, Mitko Veleski
+
+Email: munozher@b-tu.de
+
+
+Supervisor name: Marcelo Brandalero
+
+Supervisor e-mail:  marcelo.brandalero@b-tu.de
+
+ 
+
+Board used: Zedboard
+
+Software Version: Vivado 2020.2
+
+Brief description of project:
+
+Implementation of the FGPU in a Zedboard. The FGPU is running a Convolutional Neural Network which recognizes handwritten digits.
+
 
 The repository is organized as follows:
 
@@ -32,4 +57,4 @@ Optionally, you can start from scratch by:
 Optionally, the user can use their own handwritten digit image, provided that its 28x28 pixels and its flatten into a one-dimesional 'c' array (usage of image.h as template is encouraged)
 8. The result can be visualized in a serial terminal.
 
-A video demonstration can be seen [here:](https://www.dropbox.com/s/5xeulkje6d7a7vn/xilinx_contest.mp4?dl=0)
+
